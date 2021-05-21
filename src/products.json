@@ -1,0 +1,114 @@
+[
+    {
+        "code": "54957",
+        "title": "Товар-1",
+        "manufacturer": "Производитель-1",
+        "price": 1200,
+        "stockAmount": 2
+    },
+    {
+        "code": "80903",
+        "title": "Товар-2",
+        "manufacturer": "Производитель-1",
+        "price": 5000,
+        "stockAmount": 1
+    },
+    {
+        "code": "57055",
+        "title": "Товар-3",
+        "manufacturer": "Производитель-2",
+        "price": 3990,
+        "stockAmount": 5
+    },
+    {
+        "code": "67520",
+        "title": "Товар-4",
+        "manufacturer": "Производитель-4",
+        "price": 5400,
+        "stockAmount": 4
+    },
+    {
+        "code": "94349",
+        "title": "Товар-5",
+        "manufacturer": "Производитель-3",
+        "price": 5000,
+        "stockAmount": 7
+    },
+    {
+        "code": "67708",
+        "title": "Товар-6",
+        "manufacturer": "Производитель-2",
+        "price": 5000,
+        "stockAmount": 10
+    },
+    {
+        "code": "54264",
+        "title": "Товар-7",
+        "manufacturer": "Производитель-4",
+        "price": 6900,
+        "stockAmount": 2
+    },
+    {
+        "code": "58512",
+        "title": "Товар-8",
+        "manufacturer": "Производитель-3",
+        "price": 1800,
+        "stockAmount": 3
+    },
+    {
+        "code": "76449",
+        "title": "Товар-9",
+        "manufacturer": "Производитель-2",
+        "price": 5000,
+        "stockAmount": 5
+    },
+    {
+        "code": "83038",
+        "title": "Товар-10",
+        "manufacturer": "Производитель-4",
+        "price": 11000,
+        "stockAmount": 6
+    },
+    {
+        "code": "14742",
+        "title": "Товар-11",
+        "manufacturer": "Производитель-1",
+        "price": 8000,
+        "stockAmount": 9
+    },
+    {
+        "code": "18324",
+        "title": "Товар-12",
+        "manufacturer": "Производитель-3",
+        "price": 5500,
+        "stockAmount": 4
+    },
+    {
+        "code": "27832",
+        "title": "Товар-13",
+        "manufacturer": "Производитель-1",
+        "price": 5000,
+        "stockAmount": 12
+    },
+    {
+        "code": "10239",
+        "title": "Товар-14",
+        "manufacturer": "Производитель-1",
+        "price": 8000,
+        "stockAmount": 4
+    },
+    {
+        "code": "73192",
+        "title": "Товар-15",
+        "manufacturer": "Производитель-1",
+        "price": 5000,
+        "stockAmount": 6
+    },
+    {
+        "code": "99233",
+        "title": "Товар-16",
+        "manufacturer": "Производитель-1",
+        "price": 1200,
+        "stockAmount": 3
+    }
+]
