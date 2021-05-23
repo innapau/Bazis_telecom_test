@@ -103,6 +103,7 @@ export default {
           }
           return element.code.includes(code) && element.title.toLowerCase().includes(name) && element.manufacturer.toLowerCase().includes(manufacturer) && element.stockAmount >= Number(stock);
         })
+        this.currentPage = 1; 
         return this.filteredProducts = filtered;
       }
       return this.filteredProducts = list;
